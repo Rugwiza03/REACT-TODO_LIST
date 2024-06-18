@@ -19,3 +19,6 @@ A simple and intuitive To Do List application to help you keep track of your tas
 
 ## Installation
 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/rugwiza03/todo-list.git
