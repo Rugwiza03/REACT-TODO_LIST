@@ -2,7 +2,7 @@
 
 A simple and intuitive To Do List application to help you keep track of your tasks and stay organized.
 
-## Features
+# Features
 
 - Add new tasks with a title and description
 - Mark tasks as completed
