@@ -17,7 +17,7 @@ A simple and intuitive To Do List application to help you keep track of your tas
 - Database: MongoDB
 - Version Control: Git
 
-## Installation
+# Installation
 
 1. Clone the repository:
    ```sh
