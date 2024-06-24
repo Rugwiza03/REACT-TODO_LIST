@@ -10,7 +10,7 @@ A simple and intuitive To Do List application to help you keep track of your tas
 - View a list of all tasks, with completed tasks visually distinguished
 - Responsive design for mobile and desktop use
 
-## Technologies Used
+# Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
